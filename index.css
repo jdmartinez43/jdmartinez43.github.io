@@ -1,4 +1,11 @@
-/* template influenced from: https://getbootstrap.com/docs/4.3/examples/cover/#  */
+/* template used from: https://getbootstrap.com/docs/4.3/examples/cover/#  */
+/* color */
+
+:root{
+    --primary: #753bbd ;
+    --hover-color: #ba0c2f ;
+    --gray: #8a8d8f ;
+}
 
 *, ::after, ::before {
     box-sizing: border-box;
@@ -7,30 +14,30 @@
 p {
     font-size: 18px;
     font-family: "Helvetica";
-    color: #ffffff;
+    color: #000000;
+}
+
+.navbar {
+    background-color: var(--gray);
 }
 
 body {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     background-color: #5c5a5a;
-    box-shadow: inset 0 0 5rem rgb(0 0 0 / 50%);
 }
 
-header.page-header {
-    background: no-repeat left/cover url(/media/examples/puppy-header-logo.jpg);
+
+/* header.page-header {
     display: flex;
     height: 120px;
     min-width: 120px;
     align-items: center;
-    color: #fff;
-    text-shadow: #000 0 0 .2em;
-}
+    color: rgb(0, 0, 0);
+} */
 
-header.page-header > h3 {
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-
+/* header.page-header > h3 {
     margin: 2%;
-}
+} */
 
 footer.page-footer {
     background: no-repeat left/cover url(/media/examples/puppy-header-logo.jpg);
