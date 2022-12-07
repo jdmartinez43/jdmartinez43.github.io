@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.88593b66.css",
-    "main.js": "/react-gh-pages/static/js/main.148dde04.js",
-    "static/media/fabflix_demo.mp4": "/react-gh-pages/static/media/fabflix_demo.8bb223143220155a3acc.mp4",
-    "static/media/jose.jpg": "/react-gh-pages/static/media/jose.95795c526c58fa8d002d.jpg",
-    "static/media/bootstrap_logo.png": "/react-gh-pages/static/media/bootstrap_logo.fa9e3cf8ca12ab59b20b.png",
-    "static/media/mysql_logo.svg": "/react-gh-pages/static/media/mysql_logo.68c8655ee4a0bef4ec99192c22346b09.svg",
-    "static/media/java_logo.svg": "/react-gh-pages/static/media/java_logo.029fe53a3aa7c5fcca70b3a79a9bf99e.svg",
-    "static/media/linkedin_logo.svg": "/react-gh-pages/static/media/linkedin_logo.907b0d3d5cd8339a438fa8a510c638c0.svg",
-    "static/media/email_logo.svg": "/react-gh-pages/static/media/email_logo.a109cb4ed7150ba8683ee83097138c95.svg",
-    "static/media/github_logo.svg": "/react-gh-pages/static/media/github_logo.255db585f8a0eb28a1e4deb91bde207d.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.88593b66.css.map": "/react-gh-pages/static/css/main.88593b66.css.map",
-    "main.148dde04.js.map": "/react-gh-pages/static/js/main.148dde04.js.map"
+    "main.css": "/static/css/main.88593b66.css",
+    "main.js": "/static/js/main.33701987.js",
+    "static/media/fabflix_demo.mp4": "/static/media/fabflix_demo.8bb223143220155a3acc.mp4",
+    "static/media/jose.jpg": "/static/media/jose.95795c526c58fa8d002d.jpg",
+    "static/media/bootstrap_logo.png": "/static/media/bootstrap_logo.fa9e3cf8ca12ab59b20b.png",
+    "static/media/mysql_logo.svg": "/static/media/mysql_logo.68c8655ee4a0bef4ec99192c22346b09.svg",
+    "static/media/java_logo.svg": "/static/media/java_logo.029fe53a3aa7c5fcca70b3a79a9bf99e.svg",
+    "static/media/linkedin_logo.svg": "/static/media/linkedin_logo.907b0d3d5cd8339a438fa8a510c638c0.svg",
+    "static/media/email_logo.svg": "/static/media/email_logo.a109cb4ed7150ba8683ee83097138c95.svg",
+    "static/media/github_logo.svg": "/static/media/github_logo.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/index.html",
+    "main.88593b66.css.map": "/static/css/main.88593b66.css.map",
+    "main.33701987.js.map": "/static/js/main.33701987.js.map"
   },
   "entrypoints": [
     "static/css/main.88593b66.css",
-    "static/js/main.148dde04.js"
+    "static/js/main.33701987.js"
   ]
 }
